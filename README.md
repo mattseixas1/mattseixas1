@@ -14,4 +14,4 @@ Entregador do IFood desde 2021, já tive contato anteriormente com Desenvolvimen
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattseixas1&layout=compact)](https://github.com/mattseixas1/github-readme-stats)
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mattseixas1&layout=compact&theme=dracula&custom_title=Linguagens%20%mais%20%utilizadas)
