@@ -1,4 +1,4 @@
-## Olá Bem Vindos!
+## Olá! Bem Vindos!
 
 Meu nome é Matheus, e sou um desenvolvedor back-end em desenvolvimento!
 
